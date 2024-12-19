@@ -1,15 +1,21 @@
 # EXP 5: Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+
 ## Date:16.11.24
+
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
+
 ## Software required :
 Visual components and Python
+
 
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
+
+
 
 ## Procedure :
 
@@ -19,6 +25,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+
 ![PQM Ex5(1)](https://github.com/user-attachments/assets/f354f3c1-a0b7-4bb6-8797-b6dcb606972a)
 ![PQM Ex5(2)](https://github.com/user-attachments/assets/1f00b99a-87b4-4abb-ba1b-e5ec01e4c39d)
 
